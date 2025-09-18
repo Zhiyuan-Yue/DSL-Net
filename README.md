@@ -1,2 +1,2 @@
 # DSL-Net
-A NEURAL FRAMEWORK FOR DISTRIBUTED SOURCE LOCALIZATION IN WIRELESS ACOUSTIC SENSOR NETWORKS For ICASSP 2026 Coming soon
+The source code is under preparation and will be released in conjunction with our ICASSP 2026 publication.
